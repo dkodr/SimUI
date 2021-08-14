@@ -12,7 +12,7 @@ The goal was to transfer ideas that make MinUI, well, "min" to a more robust pla
 One other notable example: while SimpleMenu supports multiple controls / key combinations (please read [this wiki page](https://github.com/fgl82/simplemenu/wiki/3.-Controls) to learn more) I simply did not find a good place to put hints for all of them so I chose only the essential ones fot the bottom bar.
 
 # Compatibility
-SimUI should work with all devices that are currently supported by SimpleMenu. For now, only a 320x240 version has been created but I'm also planning to release 480x320 and 640x480 variants. 
+SimUI should work with all devices that are currently supported by SimpleMenu. For now, only a 320x240 version has been created but I'm also planning to release 480x320 and 640x480 variants. If you encounter any problems on your device, please let me know. The theme has been tested and confirmed to be working correctly on these devices: PowKiddy Q20 Mini.
 
 # Installation
 1. Download the [latest release](https://github.com/dkodr/SimUI/releases/latest)

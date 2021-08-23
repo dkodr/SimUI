@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'BPreplay';
+    src: url('BPreplay.eot'); /* IE9 Compat Modes */
+    src: url('BPreplay.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('BPreplay.woff') format('woff'), /* Modern Browsers */
+         url('BPreplay.ttf') format('truetype'); /* Safari, Android, iOS */
+    font-style: normal;
+    font-weight: 400;
+    text-rendering: optimizeLegibility;
+}

@@ -12,15 +12,15 @@ The goal was to transfer ideas that make MinUI, well, "min" to a more robust pla
 One other notable example: while SimpleMenu supports multiple controls / key combinations (please read [this wiki page](https://github.com/fgl82/simplemenu/wiki/3.-Controls) to learn more) I simply did not find a good place to put hints for all of them so I chose only the essential ones fot the bottom bar.
 
 # Compatibility
-SimUI should work with all devices that are currently supported by SimpleMenu. For now, only a 320x240 version has been created but I'm also planning to release 480x320 and 640x480 variants. If you encounter any problems on your device, please let me know. The theme has been tested and confirmed to be working correctly on these devices: PowKiddy Q20 Mini.
+SimUI should work with all devices that are currently supported by SimpleMenu (original Bittboy, PocketGo and it's clones, devices running RetroFW and OpenDingux). For now, only a 320x240 version has been created but I'm also planning to release a 640x480 version. Please note that the 320x240 version will also work on devices with a 640x480 screen – you just need to put it in the `/.simplemenu/themes/640x480/` folder – but some images may look a little blurry because of them being scaled up. If you encounter any problems on your device, please let me know.
 
 # Installation
 1. Download the [latest release](https://github.com/dkodr/SimUI/releases/latest)
-2. Extract it to `/.simplemenu/themes/320x240/`
+2. Extract it to `/.simplemenu/themes/320x240/` or `/.simplemenu/themes/640x480/` (depending on your device)
 3. Choose the theme in SimpleMenu settings
 
 # SimpleMenu button configuration
-Right now, in order for SimpleMenu to work properly on Bittboy PocketGO, PowKiddy V90/Q90/Q20 Mini, you have to change the button configuration in `/.simplemenu/config.ini` to this:
+Right now, in order for SimpleMenu to work properly on Bittboy PocketGo, PowKiddy V90/Q90/Q20 Mini, you have to change the button configuration in `/.simplemenu/config.ini` to this:
 
 ```ini
 [CONTROLS]
@@ -43,5 +43,4 @@ Otherwise some keys won't be mapped correctly.
 
 # Roadmap
 - [X] 320x240 version
-- [ ] 480x320 version
 - [ ] 640x480 version

@@ -1,9 +1,13 @@
 # About SimUI
 *SimUI is a theme for [SimpleMenu](https://github.com/fgl82/simplemenu) inspired by [Shaun Inman](https://github.com/shauninman)'s [MinUI](https://github.com/shauninman/MinUI) (a custom launcher for the Trimui Model S, aka PowKiddy A66).*
 
-![Screenshot1](https://user-images.githubusercontent.com/6025373/129362366-40c913d5-e0f9-49bf-b3da-700c4e6629c6.png)
-![Screenshot2](https://user-images.githubusercontent.com/6025373/129362371-e078166d-bcc1-43fa-b2f8-4bfc9bbb1ace.png)
-![Screenshot3](https://user-images.githubusercontent.com/6025373/129362373-2cea8d41-87aa-49e1-8317-1281fe556a41.png)
+![Game list](https://user-images.githubusercontent.com/6025373/130760904-96c792f0-b4a1-4a76-9ab5-f11032af69e1.png)
+![Add games to favorites](https://user-images.githubusercontent.com/6025373/130760975-02ce1181-8018-4c63-9636-efab4ee4d57b.png)
+![Fullscreen thumbnail](https://user-images.githubusercontent.com/6025373/130761069-4f55ee60-3e2e-4ece-b02b-0a144ef1493c.png)
+![Fullscreen game list](https://user-images.githubusercontent.com/6025373/130761133-597bd91d-ab92-48c9-80be-975f5dff4b4e.png)
+![Favorites logo](https://user-images.githubusercontent.com/6025373/130761199-00c6bbcb-caf4-407c-a8b1-fd32e22c031b.png)
+![Section logo](https://user-images.githubusercontent.com/6025373/130761238-8526b031-2045-4469-b1b5-45c01e286424.png)
+![Section group logo](https://user-images.githubusercontent.com/6025373/130761272-cf87323d-992d-4c4f-a1ab-6cb5f4b0ecb9.png)
 
 Having enjoyed [MinUI](https://github.com/shauninman/MinUI)'s intuitive and minimalistic design and [SimpleMenu](https://github.com/fgl82/simplemenu)'s ease of customization, I decided to get acquainted with SimpleMenu's theming engine by recreating MinUI as closely as possible hoping the end product won't be an insult to Shaun's excellent creation 🙂
 
@@ -23,7 +27,7 @@ SimUI should work with all devices that are currently supported by SimpleMenu (o
 Although I would encourage you to keep thumbnails on the game list turned off as it fits the theme's aesthetic much better, they are still supported and can be turned back on. All you have to do is open `theme.ini` and change `show_art = 0` to `show_art = 1`. This setting is independent from the fullscreen mode which is always available.
 
 # Design source files
-You can find design source files in [this location](https://github.com/dkodr/SimUI/tree/main/art) and edit them in [Gravit Designer](http://designer.io/) if you ever so desire.
+You can find design source files in [this location](art) and edit them in [Gravit Designer](http://designer.io/) if you ever so desire.
 
 # SimpleMenu button configuration
 Right now, in order for SimpleMenu to work properly on Bittboy PocketGo, PowKiddy V90/Q90/Q20 Mini, you have to change the button configuration in `/.simplemenu/config.ini` to this:

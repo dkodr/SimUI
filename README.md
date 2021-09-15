@@ -16,11 +16,11 @@ The goal was to transfer ideas that make MinUI, well, "min" to a more robust pla
 One other notable example: while SimpleMenu supports multiple controls / key combinations (please read [this wiki page](https://github.com/fgl82/simplemenu/wiki/3.-Controls) to learn more or visit *Settings > Help* in the app) I simply did not find a good place to put hints for all of them so I chose only the essential ones fot the bottom bar.
 
 # Compatibility
-The latest release of SimUI is optimised for SimpleMenu version 10.0 and should work with all devices that are currently supported by SimpleMenu (original Bittboy, PocketGo and it's clones, devices running RetroFW and OpenDingux). For now, only a 320x240 version has been created but I'm also planning to release a 640x480 version. ~~Please note that the 320x240 version will also work on devices with a 640x480 screen – you just need to put it in the `/.simplemenu/themes/640x480/` folder – but some images may look a little blurry because of them being scaled up.~~ *// no longer possible with SimpleMenu 10.1 or newer //* If you encounter any problems on your device, please let me know.
+The latest release of SimUI is optimised for and has been tested on SimpleMenu version 10.3.1 and should work with all devices that are currently supported by SimpleMenu (original Bittboy, PocketGo and it's clones, devices running RetroFW and OpenDingux). There are two separate versions of the theme directed at different screen resolutions: 320x240 and 640x480. Please use the one corresponding to your device's resolution and put it in the appropriate folder within SimpleMenu. If you encounter any problems on your device, please let me know.
 
 # Installation
-1. Download the [latest release](https://github.com/dkodr/SimUI/releases/latest)
-2. Extract it to `/.simplemenu/themes/320x240/`
+1. Download the [latest release](https://github.com/dkodr/SimUI/releases/latest) appropriate for your device's screen resolution
+2. Extract it to `/.simplemenu/themes/320x240/` or `/.simplemenu/themes/640x480/` (whichever applies)
 3. Choose the theme in SimpleMenu settings
 
 # Thumbnails

@@ -2,10 +2,10 @@
 *SimUI is a theme for [SimpleMenu](https://github.com/fgl82/simplemenu) inspired by [Shaun Inman](https://github.com/shauninman)'s [MinUI](https://github.com/shauninman/MinUI) (a custom launcher for the Trimui Model S, aka PowKiddy A66).*
 
 ![Game list](https://user-images.githubusercontent.com/6025373/130760904-96c792f0-b4a1-4a76-9ab5-f11032af69e1.png)
-![Add games to favorites](https://user-images.githubusercontent.com/6025373/130760975-02ce1181-8018-4c63-9636-efab4ee4d57b.png)
+![Add games to favorites](https://user-images.githubusercontent.com/6025373/133490097-227068de-20a9-440a-8c17-fb424e1e1b7c.png)
 ![Fullscreen thumbnail](https://user-images.githubusercontent.com/6025373/130761069-4f55ee60-3e2e-4ece-b02b-0a144ef1493c.png)
 ![Fullscreen game list](https://user-images.githubusercontent.com/6025373/130761133-597bd91d-ab92-48c9-80be-975f5dff4b4e.png)
-![Favorites logo](https://user-images.githubusercontent.com/6025373/130761199-00c6bbcb-caf4-407c-a8b1-fd32e22c031b.png)
+![Favorites logo](https://user-images.githubusercontent.com/6025373/133490185-5e989f0b-f8ab-4e2b-991a-b4e7488cc60d.png)
 ![Section logo](https://user-images.githubusercontent.com/6025373/130761238-8526b031-2045-4469-b1b5-45c01e286424.png)
 ![Section group logo](https://user-images.githubusercontent.com/6025373/130761272-cf87323d-992d-4c4f-a1ab-6cb5f4b0ecb9.png)
 

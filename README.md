@@ -2,10 +2,10 @@
 *SimUI is a theme for [SimpleMenu](https://github.com/fgl82/simplemenu) inspired by [Shaun Inman](https://github.com/shauninman)'s [MinUI](https://github.com/shauninman/MinUI) (a custom launcher for the Trimui Model S, aka PowKiddy A66).*
 
 ![Game list](https://user-images.githubusercontent.com/6025373/130760904-96c792f0-b4a1-4a76-9ab5-f11032af69e1.png)
-![Add games to favorites](https://user-images.githubusercontent.com/6025373/130760975-02ce1181-8018-4c63-9636-efab4ee4d57b.png)
+![Add games to favorites](https://user-images.githubusercontent.com/6025373/133490097-227068de-20a9-440a-8c17-fb424e1e1b7c.png)
 ![Fullscreen thumbnail](https://user-images.githubusercontent.com/6025373/130761069-4f55ee60-3e2e-4ece-b02b-0a144ef1493c.png)
 ![Fullscreen game list](https://user-images.githubusercontent.com/6025373/130761133-597bd91d-ab92-48c9-80be-975f5dff4b4e.png)
-![Favorites logo](https://user-images.githubusercontent.com/6025373/130761199-00c6bbcb-caf4-407c-a8b1-fd32e22c031b.png)
+![Favorites logo](https://user-images.githubusercontent.com/6025373/133490185-5e989f0b-f8ab-4e2b-991a-b4e7488cc60d.png)
 ![Section logo](https://user-images.githubusercontent.com/6025373/130761238-8526b031-2045-4469-b1b5-45c01e286424.png)
 ![Section group logo](https://user-images.githubusercontent.com/6025373/130761272-cf87323d-992d-4c4f-a1ab-6cb5f4b0ecb9.png)
 
@@ -16,11 +16,11 @@ The goal was to transfer ideas that make MinUI, well, "min" to a more robust pla
 One other notable example: while SimpleMenu supports multiple controls / key combinations (please read [this wiki page](https://github.com/fgl82/simplemenu/wiki/3.-Controls) to learn more or visit *Settings > Help* in the app) I simply did not find a good place to put hints for all of them so I chose only the essential ones fot the bottom bar.
 
 # Compatibility
-SimUI should work with all devices that are currently supported by SimpleMenu (original Bittboy, PocketGo and it's clones, devices running RetroFW and OpenDingux). For now, only a 320x240 version has been created but I'm also planning to release a 640x480 version. Please note that the 320x240 version will also work on devices with a 640x480 screen – you just need to put it in the `/.simplemenu/themes/640x480/` folder – but some images may look a little blurry because of them being scaled up. If you encounter any problems on your device, please let me know.
+The latest release of SimUI is optimised for and has been tested on SimpleMenu version 10.3.1 and should work with all devices that are currently supported by SimpleMenu (original Bittboy, PocketGo and it's clones, devices running RetroFW and OpenDingux). There are two separate versions of the theme directed at different screen resolutions: 320x240 and 640x480. Please use the one corresponding to your device's resolution and put it in the appropriate folder within SimpleMenu. If you encounter any problems on your device, please let me know.
 
 # Installation
-1. Download the [latest release](https://github.com/dkodr/SimUI/releases/latest)
-2. Extract it to `/.simplemenu/themes/320x240/` or `/.simplemenu/themes/640x480/` (depending on your device)
+1. Download the [latest release](https://github.com/dkodr/SimUI/releases/latest) appropriate for your device's screen resolution
+2. Extract it to `/.simplemenu/themes/320x240/` or `/.simplemenu/themes/640x480/` (whichever applies)
 3. Choose the theme in SimpleMenu settings
 
 # Thumbnails
@@ -50,8 +50,3 @@ R = 305
 ```
 
 Otherwise some keys won't be mapped correctly.
-
-# Roadmap
-- [X] 320x240 version
-- [ ] 640x480 version
-- [ ] Mini, Midi and Maxi variants with different font sizes and text density (for different screen **sizes**)
